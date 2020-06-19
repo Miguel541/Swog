@@ -1,0 +1,145 @@
+.infobox{border:1px solid #aaa;background-color:#f9f9f9;margin-bottom:.5em;margin-left:1em;padding:.2em;float:right;clear:right}
+
+.center {margin-left:auto;margin-right:auto}
+
+/* Para as imagens se adaptarem ao tamanho da tela */
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.imgBordas {
+	border-style: solid;
+}
+
+.centerimg {
+	display: block; margin-left: auto; margin-right: auto; width: 50%;
+}
+
+body {
+	padding-left: 20%;
+	padding-right: 20%;
+	background: rgb(255,255,255);
+	background: linear-gradient(159deg, rgba(255,255,255,1) 0%, rgba(232,232,232,1) 100%);
+}
+
+a{
+	text-decoration:none;
+}
+
+.corpo {
+	/*border-style: solid;*/
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.caixagrande {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h1{
+	text-align: center;
+
+	color: black;
+	font-family: "Arial Black", Gadget, sans-serif;
+	background: rgba(0,0,0,0.03);
+	padding:3px;
+	border: 2px solid rgba(0,0,0,0.055);
+
+	font-size: 50px;
+}
+
+h2{
+	font-family: "Arial Black", Gadget, sans-serif;
+	/*color: white;*/
+	/*background: rgb(50,50,50);*/
+	padding:10px;
+}
+
+p {
+	padding-bottom: 12px;
+}
+
+
+li {
+	padding-top: 12;
+	padding-bottom: 12px;
+}
+
+.copyright {
+	padding: 50px;
+	text-align: center;
+}
+
+.box-1{
+	background-color: black;
+	color:#fff;
+	padding:10px;
+
+	border: 9px solid red;
+}
+
+
+.antisociaisdemerda{
+	color: red;
+	text-decoration: line-through;
+}
+
+.sãounsobesosmórbidos{
+	color:red;
+	text-decoration: line-through;
+}
+
+.pelomenossabemjogar{
+	color:red;
+	text-decoration: line-through;
+}
+
+
+.queeunãoquerosaber{
+	text-decoration: line-through;
+}
+
+.sãounsótarios{
+	text-decoration: line-through;
+}
+
+.Gamersasério{
+	text-decoration: line-through;
+	color:red;
+}
+
+.Csgo{
+	color: #4f2600;
+}
+
+.muçulmanos{
+	color: red;
+	text-decoration: line-through;
+}
+
+.merda{
+    color: red;
+	text-decoration: line-through;	
+}
+
+
+.bateredefender{
+	color: #7900a8;
+	text-decoration: line-through;	
+}
+
+.plagiado{
+	color: red;
+	text-decoration: line-through;	
+}
+
+.Paladins{
+	color: red;
+	text-decoration: line-through;
+}
+
